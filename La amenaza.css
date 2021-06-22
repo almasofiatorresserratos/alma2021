@@ -1,0 +1,266 @@
+.back {
+  background-size: cover;
+}
+.snow {
+  position: absolute;
+  margin-left: -1px;
+  filter: brightness(90%);
+  margin-top: -10px;
+  height: 620px;
+  width: 1350px;
+  transform: rotate(.5deg);
+}
+.volver {
+  font-family: 'Alice in Wonderland';
+  font-size: 20px;
+  font-weight: bold;
+  font-style: oblique;
+  position: absolute;
+   color: #2E2E2E;
+}
+.vo {
+  margin-left: -5px;
+  height: 70px;
+  width: 140px;
+  position: absolute;
+  transform: rotate(180deg);
+  filter: brightness(0%);
+}
+.name {
+  transform: rotate(90deg);
+  width: 70px;
+  height: 200px;
+  margin-left: 110px;
+  margin-top: 120px;
+  position: absolute;
+}
+.where {
+  height: 400px;
+  position: absolute;
+  margin-top: 200px;
+}
+.libr {
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 85px;
+  font-family: "Alice in Wonderland";
+  font-size: 35px;
+  font-weight: bold;
+  color: #120A2A;
+}
+.parr {
+  position: absolute;
+  height: 260px;
+  width: 170px;
+  font-family: "Alice in Wonderland";
+  font-weight: bold;
+  color: #2A120A;
+  font-size: 23.5px;
+  align-content: center;
+  margin-left: 65px;
+  margin-top: 260px;
+}
+
+
+.pes {
+  position: absolute;
+  border-radius: 200px;
+  border-image: url("http://www.madhusudanimpex.com/img/import/onyx/blue.jpg");
+  margin-left: 900px;
+  margin-top: 10px;
+  height: 300px;
+  width: 300px;
+  background-image: url("http://www.madhusudanimpex.com/img/import/onyx/blue.jpg");
+  font-family: "Alice in Wonderland";
+  font-weight: bold;
+  font-size: 50px;
+  padding-bottom: 160px;
+  cursor: pointer;
+}
+.modalPer {
+ display: none;
+ position: fixed;
+ z-index: 1;
+ left: 0;
+ top: 0;
+ width: 100%;
+ height: 100%;
+ overflow: auto;
+ background-image: url("https://ak.picdn.net/shutterstock/videos/2549276/thumb/1.jpg");
+ background-size: cover;
+}
+.persContenido {
+ background-image: url("https://cdn.pixabay.com/photo/2016/06/29/23/15/background-1488018_960_720.jpg");
+ background-size: cover;
+ margin: 15% auto;
+ padding: 20px;
+ border: 1px solid #5F4C0B;
+ width: 60%;
+}
+.cerrarPers {
+ color: #424242;
+ float: right;
+ font-size: 25px;
+ font-weight: bold;
+ cursor: pointer;
+ font-family: "Alice in Wonderland";
+}
+.cerrarPers:hover {
+ color: black;
+ text-shadow: 1px 2px 3px #5858FA;
+ cursor: pointer;
+}
+
+
+
+.acce {
+  position: absolute;
+  border-radius: 200px;
+  border-image: url("http://www.madhusudanimpex.com/img/import/onyx/blue.jpg");
+  margin-left: 400px;
+  margin-top: 10px;
+  height: 300px;
+  width: 300px;
+  background-image: url("http://www.madhusudanimpex.com/img/import/onyx/blue.jpg");
+  font-family: "Alice in Wonderland";
+  font-weight: bold;
+  font-size: 40px;
+  padding-bottom: 130px;
+  cursor: pointer;
+}
+.modalAcce {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-image: url("https://ak.picdn.net/shutterstock/videos/2549276/thumb/1.jpg");
+  background-size: cover;
+}
+.acceContenido {
+  background-image: url("https://cdn.pixabay.com/photo/2016/06/29/23/15/background-1488018_960_720.jpg");
+  background-size: cover;
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #5F4C0B;
+  width: 60%;
+}
+.cerrarAcce {
+  color: #424242;
+  float: right;
+  font-size: 25px;
+  font-weight: bold;
+  cursor: pointer;
+  font-family: "Alice in Wonderland";
+}
+.cerrarAcce:hover{
+  color: black;
+  text-shadow: 1px 2px 3px #5858FA;
+  cursor: pointer;
+}
+
+
+
+.gal {
+  position: absolute;
+  border-radius: 200px;
+  border-image: url("http://www.madhusudanimpex.com/img/import/onyx/blue.jpg");
+  margin-left: 630px;
+  margin-top: 300px;
+  height: 300px;
+  width: 300px;
+  background-image: url("http://www.madhusudanimpex.com/img/import/onyx/blue.jpg");
+  font-family: "Alice in Wonderland";
+  font-weight: bold;
+  font-size: 50px;
+  padding-bottom: 140px;
+  cursor: pointer;
+}
+.modalGal {
+  display: none;
+ position: fixed;
+ z-index: 1;
+ left: 0;
+ top: 0;
+ width: 100%;
+ height: 100%;
+ overflow: auto;
+ background-image: url("https://ak.picdn.net/shutterstock/videos/2549276/thumb/1.jpg");
+ background-size: cover;
+}
+.galContenido {
+  background-image: url("https://cdn.pixabay.com/photo/2016/06/29/23/15/background-1488018_960_720.jpg");
+  background-size: cover;
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #5F4C0B;
+  width: 60%;
+}
+.close {
+  color: #424242;
+  float: right;
+  font-size: 25px;
+  font-weight: bold;
+  cursor: pointer;
+  font-family: "Alice in Wonderland";
+}
+.close:hover{
+  color: black;
+  text-shadow: 1px 2px 3px #5858FA;
+  cursor: pointer;
+}
+
+
+.jinn {
+  position: absolute;
+  width: 250px;
+  margin-left: 660px;
+  margin-top: 435px;
+}
+.perr {
+  position: absolute;
+  height: 200px;
+  margin-left: 940px;
+  margin-top: 90px;
+  filter: brightness(0%);
+}
+.per {
+  position: absolute;
+  height: 70px;
+  margin-left: 1050px;
+  margin-top: 100px;
+  filter: brightness(0%);
+}
+.spee {
+  position: absolute;
+  height: 160px;
+  transform: rotate(-135deg);
+  margin-left: 520px;
+  margin-top: 130px;
+}
+.arr {
+  position: absolute;
+  filter: brightness(0%);
+  height: 160px;
+  transform: rotate(-45deg);
+  margin-left: 510px;
+  margin-top: 135px;
+}
+.prs {
+  font-weight: bold;
+  font-size: 30px;
+  color: #0B0B3B;
+  font-family: "Caerphilly DEMO";
+  text-shadow: 2px 2px 2px #A9BCF5;
+}
+.DePrs {
+  font-weight: bold;
+  font-family: "Caerphilly DEMO";
+  font-size: 20px;
+  color: #070719;
+}
+.map {
+}
